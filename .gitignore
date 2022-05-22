@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Topics/Standard output/Print code/out/
+/Topics/Standard output/Print code/out/production/classes/
+/Topics/Standard output/Tic-Tac-Toe/out/
+/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
+/Topics/Values and variables/Theory/out/
+/Topics/Values and variables/Theory/out/production/classes/
+/Zookeeper/task/build/
